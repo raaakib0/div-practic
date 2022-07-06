@@ -1,0 +1,33 @@
+body{
+    margin: 0%;
+}
+.section1{
+    display: flex;
+    margin-top: 5%;
+    margin-bottom: 5%;
+    background-color: rgb(249, 227, 199);
+    padding: 0px 10px;
+    /* border: 2px 2px 2px 2px dotted blue; */
+    margin-right: 15%;
+    border-radius: 20px;
+    box-shadow: -3px 3px 3px 3px lightblue;
+   
+}
+.middle-part{
+    margin-left: 200px;
+    padding: 80px 80px;
+}
+.middle-part-img img{
+    width: 250px;
+    margin:25%;
+}
+.button{
+    text-decoration: none;
+    background-color: rgb(190, 223, 246);
+    padding: 10px 30px;
+    margin-bottom: 30px;
+}
+.section2{
+    margin-left: 15%;
+    margin-right: 0%;
+}
